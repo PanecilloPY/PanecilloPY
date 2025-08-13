@@ -9,7 +9,7 @@
 
 ###
 
-![snake gif](https://github.com/PanecilloPY/PanecilloPY/blob/output/snake.svg)
+<a href="https://github.com/PanecilloPY/HuchaDigital"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/PanecilloPY/HuchaDigital.png" width="460px"></a>
 
 ###
 
